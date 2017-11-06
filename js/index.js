@@ -3,7 +3,7 @@
 //var helloWorld = 'Hello World!'
 //document.write(helloWorld);
 const userName = prompt('Eneter Your Name');
-document.writeln('Hello, ' + userName + ' !');
+document.write('Hello, ' + userName + ' !');
 let age = Number (prompt('Your Age'));
 prn('You Are: ' +  checkAge(age));
 age = age + 1;
